@@ -1,0 +1,12 @@
+creer un dossier 
+-dossier front 
+-dossier back
+
+- Restaurateur ouvrir un restaurant si sa fonctionne bien j'ai un site vitrine sur la page home 
+Page home = liste de restau (au clique on dirige sur le site home du restau  + interface modulable + 
+nav bar pour les page (option = dinamique)
+Page contact 
+- nom 
+- prenom
+- adresse email 
+- réservation dans le restaurant que je veux
